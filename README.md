@@ -1,6 +1,6 @@
 # jsonshed API
 
-> The jsonshed API is a RESTful API containing sample data for testing and prototyping
+> Jsonshed is a RESTful API containing sample data for testing and prototyping. It&#39;s built in Node.JS, TypeScript and hosted on Google Firebase.
 
 ## Table of Contents
 
@@ -14,7 +14,10 @@
 ## Usage
 
 ```javascript
-const result = fetch(...)
+fetch(
+  "https://us-central1-jsonshed-api-firebase.cloudfunctions.net/server/users/1")
+  .then((response) => response.json())
+  .then((data) => console.log(data));)
 ```
 
 ## Features
