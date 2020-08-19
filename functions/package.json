@@ -2,15 +2,15 @@
   "name": "jsonshed",
   "version": "1.0.0",
   "description": "jsonshed",
-  "homepage": "https://github.com/FranciscoMCG/jsonshed#readme",
+  "homepage": "https://github.com/FranciscoMCG/jsonshed-api-firebase",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FranciscoMCG/jsonshed.git"
+    "url": "https://github.com/FranciscoMCG/jsonshed-api-firebase"
   },
   "author": "@FranciscoMCG",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FranciscoMCG/jsonshed/issues"
+    "url": "https://github.com/FranciscoMCG/jsonshed-api-firebase/issues"
   },
   "scripts": {
     "build": "tsc",

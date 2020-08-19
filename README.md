@@ -69,7 +69,7 @@ const result = fetch(...)
   - 🍴 Fork this repo!
 
 - **Option 2**
-  - 👊 Clone this repo to your local machine using `https://github.com/FranciscoMCG/jsonshed.git`
+  - 👊 Clone this repo to your local machine using `https://github.com/FranciscoMCG/jsonshed-api-firebase.git`
 
 ### Step 2
 
@@ -77,7 +77,7 @@ const result = fetch(...)
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/FranciscoMCG/jsonshed/compare" target="_blank">`https://github.com/FranciscoMCG/jsonshed/compare`</a>.
+- 🔃 Create a new pull request using <a href="https://github.com/FranciscoMCG/jsonshed-api-firebase/compare" target="_blank">`https://github.com/FranciscoMCG/jsonshed-api-firebase/compare`</a>.
 
 ## Documentation
 
