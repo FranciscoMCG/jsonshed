@@ -1,7 +1,7 @@
 import supertest, { SuperTest } from 'supertest';
 import http from 'http';
 
-import { app } from '../../../../../server';
+import { app } from '../../../../../';
 
 describe('deleteTodo', () => {
   let server: http.Server;

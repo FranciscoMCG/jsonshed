@@ -1,6 +1,6 @@
 import supertest from 'supertest';
 import http from 'http';
-import { app } from '../../../../../server';
+import { app } from '../../../../..';
 
 describe('getPostById', () => {
   let server: http.Server;

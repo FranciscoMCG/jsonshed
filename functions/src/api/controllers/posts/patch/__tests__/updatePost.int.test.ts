@@ -1,7 +1,7 @@
 import supertest from 'supertest';
 import http from 'http';
 
-import { app } from '../../../../../server';
+import { app } from '../../../../..';
 import { fakeBody, fakeBodyWithId } from '../../__mocks__/updatePost';
 
 describe('updatePost', () => {

@@ -1,6 +1,6 @@
 import supertest, { SuperTest } from 'supertest';
 import http from 'http';
-import { app } from '../../../../../server';
+import { app } from '../../../../../';
 
 describe('deletePost', () => {
   let server: http.Server;
