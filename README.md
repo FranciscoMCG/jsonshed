@@ -14,9 +14,7 @@
 ## Usage
 
 ```javascript
-fetch(
-  "https://us-central1-jsonshed-api-firebase.cloudfunctions.net/server/users/1"
-)
+fetch("api.jsonshed.com/users/1")
   .then((response) => response.json())
   .then((data) => console.log(data));
 ```
