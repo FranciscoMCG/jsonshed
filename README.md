@@ -15,9 +15,10 @@
 
 ```javascript
 fetch(
-  "https://us-central1-jsonshed-api-firebase.cloudfunctions.net/server/users/1")
+  "https://us-central1-jsonshed-api-firebase.cloudfunctions.net/server/users/1"
+)
   .then((response) => response.json())
-  .then((data) => console.log(data));)
+  .then((data) => console.log(data));
 ```
 
 ## Features
