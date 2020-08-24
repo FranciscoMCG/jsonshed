@@ -21,7 +21,7 @@ fetch("api.jsonshed.com/users/1")
 
 ## Features
 
-#### api/users
+### api/users
 
 ```json
 {
@@ -40,7 +40,7 @@ fetch("api.jsonshed.com/users/1")
 }
 ```
 
-#### api/todos
+### api/todos
 
 ```json
 {
@@ -51,7 +51,7 @@ fetch("api.jsonshed.com/users/1")
 }
 ```
 
-#### api/posts
+### api/posts
 
 ```json
 {
