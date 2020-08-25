@@ -64,3 +64,13 @@ node_modules/
 
 # dotenv environment variables file
 .env
+.vscode/
+
+## Compiled JavaScript files
+**/*.js
+**/*.js.map
+
+# Typescript v1 declaration files
+typings/
+
+node_modules/
