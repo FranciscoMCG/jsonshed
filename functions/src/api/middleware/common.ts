@@ -4,8 +4,7 @@ import parser from 'body-parser';
 import compression from 'compression';
 import { stream } from '../../config/logger';
 
-export const handleCors = (router: Router) =>
-  router.use(cors({ credentials: true, origin: true }));
+export const handleCors = (router: Router) => router.use(cors());
 
 export const handleBodyRequestParsing = (router: Router) => {
   router.use(parser.urlencoded({ extended: true }));
